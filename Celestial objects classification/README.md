@@ -20,7 +20,7 @@ The `numpy`, `pandas`, `matplotlib`, and `seaborn` libraries are required to run
 Each package can be installed with the command line `pip install <package name>` or `conda install <package name>`. Once you have installed everything and you have uploaded the train and test files (named as such in the data folder), all you have to do is run the notebook.
 
 ## Further information
-More details about the methodology followed are available in the report: ...
+More details about the methodology followed are available in the report.
 
 ## Authors
 *Lucas BIECHY* (lucas.biechy@university-paris-saclay.fr) and *Angel REYERO* (angel.reyero-lobo@universite-paris-saclay.fr).  

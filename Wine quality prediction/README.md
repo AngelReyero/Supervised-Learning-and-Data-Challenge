@@ -21,7 +21,7 @@ The `mmdfuse` library (based on the jax library) is a few months old and is avai
 Once you have installed everything and you have uploaded the train and test files (named as such in the data folder), all you have to do is run the notebook.
 
 ## Further information
-More details about the methodology followed are available in the report: ...
+More details about the methodology followed are available in the report.
 
 ## Authors
 *Lucas BIECHY* (lucas.biechy@university-paris-saclay.fr) and *Angel REYERO* (angel.reyero-lobo@universite-paris-saclay.fr).  
